@@ -15,20 +15,21 @@ To analyse the customer churn data of telecom company and provide the insights a
 To analyse the HR data to provide the insigghts on improving the gender balance, diversity and inclusion at executive level and also providng the recommendations to achive the same.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 1. Call center data: Key Takeways 💐
+# Key Takeways 💐 
+1. Call center data: 
    * The average customer satisfaction rating is 2.76
    * The total unresolved calls are 1354 of 4054
    * highest no of calls are reciving from 9am to 5pm
    * Agent "JIM" has answered highest calls i.e 536.
 
-# 2. Customer Retention: Key Takeways 💐
+2. Customer Retention: 
   * The Churn rate is 26.54%
   * Total open tickets in Technical Category is 2955 and in Adminstrative is 3632
   * 90% of the customers we lost where they have the Phone Service Facility
   * 88% of the customers we lost from the "Month to Month" contract category
   * 50% of the customers we lost are having the Tenure between 1 to 10 months.
 
- # 3.  HR Data analysis: Key Takeways 💐
+ 3.  HR Data analysis: Key Takeways 💐
   * Average Performance rating for the men is 2.35 and for women is 2.40
   * Total 51 emplyess got promoted and out of that 35% are women employee
   * Out of 500 employee 205 are women and 295 are men employee
