@@ -1,8 +1,8 @@
 # PwC-Job-Simulation-Virtual-Case-Projects ❄
 This Repository will Focus on Virtual Case Experience on
-1. Call center data
-2. Customer Retention
-3. Inclusion & Diversion
+1. Telecom Call center data analysis
+2. Customer Retention analysis
+3. Inclusion & Diversion - HR dat analysis
 
 # Objective : 🌱🌱
 1. Call cente data : 
